@@ -1,0 +1,5 @@
+com/example/client/configuration/RibbonConfiguration.class
+com/example/client/feign/ProviderServicer.class
+com/example/client/controller/TestServiceCallController.class
+com/example/client/feign/ConsumerServicer.class
+com/example/client/ClientServiceApplication.class
